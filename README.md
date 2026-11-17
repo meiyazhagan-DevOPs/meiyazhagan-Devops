@@ -36,7 +36,7 @@ Learn Docker fundamentals.
 Explore AWS and CI/CD pipelines.
 🤝 Connect With Me
 
-GitHub: https:https://github.com/meiyazhagan-DevOPs
+GitHub:https://github.com/meiyazhagan-DevOPs
 
 LinkedIn: www.linkedin.com/in/meiyazhagan-selvam-a838ab407
 
